@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 """Rock, paper, scissors!
 
 
@@ -100,6 +99,3 @@ if __name__ == "__main__":
     # Global choice options.
     options= ("rock", "paper", "scissors")
     run_game()
-=======
-print('Hola Mundo x2')
->>>>>>> a55d9edea7651d7f30e47e461c4d8b7746ff9d6f
